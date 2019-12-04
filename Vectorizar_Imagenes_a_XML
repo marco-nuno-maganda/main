@@ -1,0 +1,9 @@
+Paso 1: subir el png y obtener el svg
+https://image.online-convert.com/convert-to-svg
+
+Paso 2: subir el svg y obtener el XML
+https://inloop.github.io/svg2android
+
+Paso 3: agregar el XML a su carpeta drawable
+
+Paso 4: hacer referencia a tal recurso dentro de su archivo activity_main_drawer.xml
